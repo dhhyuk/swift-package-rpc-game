@@ -7,3 +7,9 @@ https://github.com/dhhyuk/swift-package-rpc-player
 
 ### HandSign
 https://github.com/dhhyuk/swift-package-rpc-handsign
+
+## Usage
+Build and run the `Game` executable
+```terminal
+swift run Game
+```
